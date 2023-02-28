@@ -1,0 +1,24 @@
+.index{
+		border:5px solid yellow;
+		background-color:palegreen;
+		padding:10px;
+		margin:10px;
+}
+.sri{
+		border:5px solid blue;
+		background-color:#ADFF2F;
+		padding:10px;
+		margin:10px;
+}
+.not{ 
+		border:5px solid red;
+		background-color:#DAA520;
+		padding:10px;
+		margin:10px;
+}
+#icon{
+	font-size:500px;
+	
+}
+#id{
+	
